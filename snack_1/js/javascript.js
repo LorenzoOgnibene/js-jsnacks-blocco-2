@@ -15,5 +15,4 @@ for(i = 0; i < 6; i++){
         array.push(userNumber);
     }
 }
- console.log(array);
-
+console.log(array);
