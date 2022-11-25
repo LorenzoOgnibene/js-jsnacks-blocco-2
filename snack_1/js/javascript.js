@@ -8,7 +8,7 @@
 const array = [];
 
 
-for(i = 0; i < 7; i++){
+for(i = 0; i < 6; i++){
     const userNumber = parseInt(prompt('inserisci un numero'));
     console.log(userNumber);
     if(userNumber % 2 === 1){
