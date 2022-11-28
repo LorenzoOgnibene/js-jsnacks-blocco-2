@@ -6,7 +6,7 @@ let sum = 0;
 
 for (let i = 0; i < numbers.length; i++){
     if( numbers.indexOf(i) % 2 === 1){
-        sum += i;
+        sum += numbers[i];
     }
 }
 
